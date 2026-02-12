@@ -9,3 +9,4 @@ function calcular(){
     "⚠️ beta detectado\n💀 =0000,0000 — ele percebeu que o universo nao se importa com ele";
 
 }
+
